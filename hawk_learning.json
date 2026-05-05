@@ -1,0 +1,241 @@
+{
+  "time_slots": {
+    "09:15": {
+      "wins": 2,
+      "losses": 2,
+      "total_pnl": -7.599999999999994
+    },
+    "09:30": {
+      "wins": 8,
+      "losses": 11,
+      "total_pnl": -14.349999999999994
+    },
+    "09:45": {
+      "wins": 9,
+      "losses": 10,
+      "total_pnl": -9.308187499999917
+    },
+    "10:15": {
+      "wins": 9,
+      "losses": 8,
+      "total_pnl": 4.7108124999999745
+    },
+    "11:15": {
+      "wins": 0,
+      "losses": 6,
+      "total_pnl": -28.55000000000001
+    },
+    "11:30": {
+      "wins": 7,
+      "losses": 1,
+      "total_pnl": 32.099999999999966
+    },
+    "12:00": {
+      "wins": 1,
+      "losses": 5,
+      "total_pnl": 2.049999999999983
+    },
+    "12:15": {
+      "wins": 1,
+      "losses": 7,
+      "total_pnl": -22.24999999999997
+    },
+    "12:30": {
+      "wins": 1,
+      "losses": 5,
+      "total_pnl": -30.99999999999997
+    },
+    "12:45": {
+      "wins": 5,
+      "losses": 6,
+      "total_pnl": -11.199999999999989
+    },
+    "13:00": {
+      "wins": 5,
+      "losses": 6,
+      "total_pnl": -1.8699312500000076
+    },
+    "13:15": {
+      "wins": 11,
+      "losses": 10,
+      "total_pnl": 31.249999999999943
+    },
+    "14:00": {
+      "wins": 1,
+      "losses": 7,
+      "total_pnl": -34.44999999999999
+    },
+    "14:15": {
+      "wins": 5,
+      "losses": 7,
+      "total_pnl": -23.94999999999996
+    },
+    "14:30": {
+      "wins": 5,
+      "losses": 7,
+      "total_pnl": 8.039999999999964
+    },
+    "14:45": {
+      "wins": 0,
+      "losses": 6,
+      "total_pnl": -32.75000000000003
+    },
+    "15:00": {
+      "wins": 5,
+      "losses": 5,
+      "total_pnl": -4.399999999999977
+    },
+    "10:00": {
+      "wins": 4,
+      "losses": 9,
+      "total_pnl": -25.899250000000038
+    },
+    "10:30": {
+      "wins": 4,
+      "losses": 9,
+      "total_pnl": -27.985374999999962
+    },
+    "13:45": {
+      "wins": 2,
+      "losses": 5,
+      "total_pnl": 1.3999999999999204
+    },
+    "11:00": {
+      "wins": 0,
+      "losses": 8,
+      "total_pnl": -43.099999999999994
+    },
+    "11:45": {
+      "wins": 2,
+      "losses": 4,
+      "total_pnl": -8.400000000000034
+    },
+    "10:45": {
+      "wins": 3,
+      "losses": 4,
+      "total_pnl": 0.9000000000000057
+    },
+    "13:30": {
+      "wins": 2,
+      "losses": 5,
+      "total_pnl": -22.94999999999999
+    }
+  },
+  "total_trades": 245,
+  "signal_accuracy": {
+    "RSI": {
+      "wins": 41,
+      "losses": 21,
+      "correct": 41,
+      "total": 62
+    },
+    "STRUCTURE": {
+      "wins": 55,
+      "losses": 46,
+      "correct": 55,
+      "total": 101
+    },
+    "SUPERTREND": {
+      "wins": 80,
+      "losses": 126,
+      "correct": 80,
+      "total": 206
+    },
+    "ADX": {
+      "wins": 77,
+      "losses": 99,
+      "correct": 77,
+      "total": 176
+    },
+    "BB_SQUEEZE": {
+      "wins": 66,
+      "losses": 48,
+      "correct": 66,
+      "total": 114
+    },
+    "PCP": {
+      "wins": 31,
+      "losses": 36,
+      "correct": 31,
+      "total": 67
+    },
+    "VWAP": {
+      "wins": 59,
+      "losses": 63,
+      "correct": 59,
+      "total": 122
+    },
+    "ORB": {
+      "wins": 47,
+      "losses": 77,
+      "correct": 47,
+      "total": 124
+    },
+    "MACD_HIST": {
+      "wins": 62,
+      "losses": 80,
+      "correct": 62,
+      "total": 142
+    },
+    "MOMENTUM": {
+      "wins": 64,
+      "losses": 65,
+      "correct": 64,
+      "total": 129
+    },
+    "PREM_VEL": {
+      "wins": 18,
+      "losses": 21,
+      "correct": 18,
+      "total": 39
+    },
+    "BREAKOUT15": {
+      "wins": 51,
+      "losses": 59,
+      "correct": 51,
+      "total": 110
+    },
+    "FUT_VEL": {
+      "wins": 31,
+      "losses": 47,
+      "correct": 31,
+      "total": 78
+    },
+    "OPT_OI": {
+      "wins": 18,
+      "losses": 21,
+      "correct": 18,
+      "total": 39
+    },
+    "AVWAP": {
+      "wins": 5,
+      "losses": 5,
+      "correct": 5,
+      "total": 10
+    },
+    "STRADDLE_GAMMA": {
+      "wins": 21,
+      "losses": 19,
+      "correct": 21,
+      "total": 40
+    },
+    "COI_PCR": {
+      "wins": 18,
+      "losses": 25,
+      "correct": 18,
+      "total": 43
+    },
+    "MAX_PAIN": {
+      "wins": 44,
+      "losses": 76,
+      "correct": 44,
+      "total": 120
+    },
+    "VWAP_RETEST": {
+      "wins": 0,
+      "losses": 1,
+      "correct": 0,
+      "total": 1
+    }
+  }
+}

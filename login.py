@@ -1,0 +1,5 @@
+user_name = ''
+password = ''
+session_key = '55498177'
+api_key = 'z34Ys256N1o50713`y675j0566W)7L36'
+api_secret = '45P913Z54p9419@O701I83Z96)*5T50='
